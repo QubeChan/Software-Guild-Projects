@@ -1,0 +1,9 @@
+1::Coke::1.50::0
+2::Diet Coke::1.50::3
+3::Coke Zero::1.50::2
+4::Sprite::1.50::1
+5::Fanta Orange::1.50::3
+6::Fanta Grape::1.50::8
+7::CC Lemon::1.50::2
+8::Calpis Soda::1.75::3
+9::Calpico::1.75::1

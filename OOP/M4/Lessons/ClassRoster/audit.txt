@@ -1,0 +1,13 @@
+2018-12-15T12:19:05.906 : Student 1 CREATED
+2018-12-15T12:20:08.273 : Student 1 REMOVED
+2019-03-07T15:45:56.483 : Student 001 CREATED
+2019-03-07T22:57:56.883 : Student 001 CREATED
+2019-03-07T22:58:16.951 : Student 002 CREATED
+2019-03-08T12:40:14.722 : createStudent: ID: 001 |Name: John Doe |Cohort: Java
+2019-03-08T12:41:43.282 : createStudent: ID: 002 |Name: Joe Smith |Cohort: Web
+2019-03-08T12:42:01.551 : createStudent: ID: 12345 |Name: Sally Jones |Cohort: .NET
+2019-03-08T12:42:11.851 : removeStudent: 12345
+2019-03-08T22:09:47.556 : createStudent: ID: 003  |Name: Sally Jones |Cohort: .NET
+2019-03-08T22:11:16.908 : createStudent: ID: 004 |Name: Death D |Cohort: Death
+2019-03-08T22:12:09.689 : createStudent: ID: 003 |Name: S d |Cohort: J
+2019-03-08T22:21:38.712 : removeStudent: 003 
